@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Luis Antonio</h1>
-<h3 align="center">Me apasiona el desarrollo web, movil y el hacking</h3>
+<h3 align="center">Me apasiona todo tipo de desarrollo y el hacking ético</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colintony&label=Profile%20views&color=0e75b6&style=flat" alt="colintony" /> </p>
 
