@@ -11,9 +11,10 @@ Me encanta aprender cosas nuevas y compartir mis conocimientos con los demás. A
 
 ## Mis habilidades
 
-- Lenguajes de programación: Java, C/C++, Dart, BASH, Python, Javascript.
-- Frameworks: Angular, React, NodeJs - Express.
+- Lenguajes de programación: Java, C/C++, Dart, BASH, Python, Javascript , TypeScript.
+- Frameworks: Angular, React, NodeJs - Express , Nest.
 - Herramientas y tecnologías: Flutter, NodeJS, MySQL, MongoDB, Docker.
+- Pentesting.
 
 ## Contacto
 
