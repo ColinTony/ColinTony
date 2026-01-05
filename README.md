@@ -22,7 +22,7 @@ Me encanta aprender cosas nuevas y compartir mis conocimientos con los demás. A
 - [Correo electrónico](mr.c0l1nr00t@gmail.com)
 - [HackTheBox](https://app.hackthebox.com/users/795274)
 - [Twitter](https://twitter.com/c0l1nr00t)
-- [WEB - En construccion]()
+- [WEB - Blog Hacking](https://c0l1nr00t.pages.dev/es/blog/01-bienvenida/)
 
 ¡No dudes en contactarme si quieres colaborar en algún proyecto o simplemente hablar sobre tecnología!
 
